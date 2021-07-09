@@ -19,6 +19,7 @@ public class PizzaMain {
 		p1.toprint();
 		p2.toprint();
 		p3.toprint();
+		System.out.println("¼öÁ¤1Â÷");
 	}
 
 }
